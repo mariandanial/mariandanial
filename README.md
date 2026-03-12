@@ -26,7 +26,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marian-Danial&show_icons=true&theme=radical)
+![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariandanial&show_icons=true&theme=radical)
 
 ---
 
