@@ -1,94 +1,34 @@
-<div align="center">
+# Hi there! I'm [Marian Danial] 👋
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/eng-marian-danial-dev/eng-marian-danial-dev/main/hello-coders.gif"
-    width="60%"
-    alt="Hello Coders I'm marian"
-  />
-</p>
-
-<h1>Hi 👋 I'm marian danial</h1>
-
-<h3>
-Programming Fundamentals with C++ <br/>
-Problem Solver • Solved <b>354+</b> Programming Problems
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eng-ahmed-mohamed-dev&style=flat&color=orange&label=PROFILE+VIEWS" />
-</p>
-
-</div>
+### 👩‍💻 About Me
+- 🎓 **MIS Graduate** | Faculty of Commerce, Alexandria University.
+- 💻 **Software Engineering Student** | Focusing on ASP.NET & Backend Development.
+- 📚 Currently mastering **C++, C#, and Programming Foundations** through the "Programming Advices" roadmap.
+- 🇪🇬 Based in Egypt.
 
 ---
 
-## 👨‍💻 About Me
-- 👨‍🎓 Learning **Programming Fundamentals using C++**
-  <img align="right"
-       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
-       width="120" />
-- ✅ Completed **C++ level 1 **
-- 🧠 Solved **150 Programming Problems**
-- 🎯 Strong focus on **logic building & problem solving**
-- ✍️ Writing **clean & readable code**
-- 🚀 Planning to learn **OOP & Algorithms & Problem-Solving – Level 1** next
+### 🧩 Problem Solving Mindset
+- **Understand First:** I analyze the problem deeply before writing any line of code.
+- **Divide & Conquer:** I break down complex problems into the smallest manageable tasks.
+- **Consistency:** I believe in practicing every day to sharpen my analytical skills.
+- **Think First, Code Second:** Logic is my priority; syntax is just the tool.
 
 ---
 
-## 🧑‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🛠️ Tools & Editors
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Marian Danial]&show_icons=true&theme=radical)
 
 ---
 
-## 📚 Current Learning Path
-- 🔹 Advanced C++ Basics
-- 🔹 Problem Solving Practice
-- 🔹 Writing clean & readable code
-- 🔜 Object-Oriented Programming (OOP)
-
-
----
-
-## 🏆 Achievements
-- ✅ Solved **150+ Programming Problems** using C++
-- 🔥 Strong foundation in **Problem Solving & Logic**
-- 💡 Continuous daily practice & improvement mindset
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-    width="45%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-    width="45%"
-  />
-</p>
-
----
-
-
-
-## 🧩 Problem Solving Mindset
-* **Understand first:** Analyze the problem deeply before writing a single line of code.
-* **Divide & Conquer:** Break down complex problems into the smallest possible sub-tasks.
-* **Consistency:** Practice every day to build strong analytical muscles.
-* **Logic over Syntax:** Think through the logic first, then let the code follow.
-
+### 📫 How to reach me:
+- **LinkedIn:** [(https://www.linkedin.com/public-profile/settings/)]
