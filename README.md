@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/eng-ahmed-mohamed-dev/eng-ahmed-mohamed-dev/main/hello-coders.gif"
+    src="https://raw.githubusercontent.com/eng-marian-danial-dev/eng-marian-danial-dev/main/hello-coders.gif"
     width="60%"
     alt="Hello Coders I'm marian"
   />
